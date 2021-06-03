@@ -10,4 +10,11 @@
 * 包路径：com.dalomao.spring.demo.extend.validatecustomenv
 * 公众号文章传送门：[Spring扩展系列之自定义环境变量验证](https://t.1yb.co/rxdv)
 
-更多干货和技术分享，请关注本人微信公众号：
+## 2. 自定义环境变量验证
+* 包路径：com.dalomao.spring.demo.aware
+* 公众号文章传送门：[Spring扩展系列之Aware标记接口](https://t.1yb.co/rMTC)
+
+---
+
+更多干货和技术分享，请关注微信公众号：
+![avatar](image/weixin.jpg)
