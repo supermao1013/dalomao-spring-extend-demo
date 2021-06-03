@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dalomao-spring-demo
+
+server:
+  port: 80
